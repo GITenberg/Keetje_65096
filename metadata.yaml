@@ -1,5 +1,8 @@
 _repo: Keetje_65096
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65096-h/images/cover.jpg
 creator:
   author:
     agent_name: Doff, Neel
@@ -13,6 +16,8 @@ creator:
     - https://en.wikipedia.org/wiki/Neel_Doff
     - https://fr.wikipedia.org/wiki/Neel_Doff
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65096#Keetje
 gutenberg_issued: '2021-04-17'
 gutenberg_type: Text
 identifiers:
